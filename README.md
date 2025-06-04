@@ -30,8 +30,8 @@ This project is a fully local, open-source **document intelligence system** that
 ## 📸 Output Screenshot
 
 Below is an example of the application interface and output:
+![output](https://github.com/user-attachments/assets/adc67def-6dab-4d02-9cfd-59c9c1ef73c5)
 
-![Document Intelligence Output](assets/output.jpg)
 
 --- 
 ## 📝 Usage
