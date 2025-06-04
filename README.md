@@ -26,11 +26,13 @@ This project is a fully local, open-source **document intelligence system** that
 - `GGUF Model` – e.g., [Mistral](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF)
 
 ---
+
 ## 📸 Output Screenshot
 
 Below is an example of the application interface and output:
 
-![Document Intelligence Output](assets/output.jpg)
+![Document Intelligence Output](assets/output.png)
+
 --- 
 ## 📝 Usage
 - `Upload a scanned PDF document.`
