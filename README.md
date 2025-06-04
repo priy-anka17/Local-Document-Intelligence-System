@@ -31,7 +31,7 @@ This project is a fully local, open-source **document intelligence system** that
 
 Below is an example of the application interface and output:
 
-![Document Intelligence Output](assets/output.png)
+![Document Intelligence Output](assets/output.jpg)
 
 --- 
 ## 📝 Usage
